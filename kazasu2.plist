@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/shiftApps/Kazasu/releases/download/1.0/Kazasu2.ipa</string>
+					<string>https://github.com/shiftApps/Kazasu/releases/download/1.0/ThermalReception.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shift.Kazasu2</string>
+				<string>com.shift.ThermalReception</string>
 				<key>bundle-version</key>
 				<string>1.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kazasu2</string>
+				<string>サーマル受付</string>
 			</dict>
 		</dict>
 	</array>
